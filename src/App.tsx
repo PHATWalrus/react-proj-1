@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Heart, RefreshCw, History, X } from 'lucide-react'
+import { Heart, RefreshCw, X } from 'lucide-react'
 import './App.css'
 
 interface Quote {
